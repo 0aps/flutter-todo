@@ -1,0 +1,1 @@
+enum BarAction { selectAll, removeAll }
